@@ -1,0 +1,6 @@
+- 2 ideas de estructuras (respecto a capas de salida):
+
+	- 1era forma: una única neurona de salida, según intervalo de respuesta
+			es un estilo u otro.
+	- 2a forma: una neurona por cada estilo arquitectónico, la que devuelva
+			valor mayor es la ganadora.
